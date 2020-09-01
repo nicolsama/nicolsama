@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Nicole! I am a designer/artist turned developer.
+My name is Nicole! I am an artist turned developer.
 
 - I’m currently working on a project using Tone.js and learning Python!
 - I’m hoping to start collaborating on open source projects
