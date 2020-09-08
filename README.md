@@ -6,4 +6,3 @@ My name is Nicole! I am an artist turned developer.
 - I’m hoping to start collaborating on open source projects
 - You can view my portfolio at www.nicolesamanich.com
 - You can reach me at nicolesamanich@gmail.com 📫 
-- When I am not coding, I'm usually spending riding my bike or doing yoga
