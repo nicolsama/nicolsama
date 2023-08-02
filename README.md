@@ -1,3 +1,3 @@
 ### Hello 👋
 
-My name is Nicole! I am an artist turned developer. You can reach me at nicolesamanich@gmail.com 📫 
+My name is Nicole! I am an artist & software engineer. You can reach me at nicolesamanich@gmail.com 📫 
